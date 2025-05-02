@@ -26,7 +26,7 @@ ethContractor analyzes Ethereum addresses and their transactions to identify pot
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ethContractor.git
+   git clone https://github.com/synfinner/ethContractor.git
    cd ethContractor
    ```
 
